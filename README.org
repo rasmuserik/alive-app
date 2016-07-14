@@ -1,6 +1,6 @@
-[[https://travis-ci.org/solsort/alive][https://travis-ci.org/solsort/alive.png]]
+[[https://travis-ci.org/solsort/alive-app][https://travis-ci.org/solsort/alive-app.png]]
 
-[[https://github.com/solsort/alive/raw/master/assets/icon.png]]
+[[https://github.com/solsort/alive-app/raw/master/assets/icon.png]]
 
 * Alive
 
