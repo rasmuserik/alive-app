@@ -1,0 +1,6 @@
+[[https://waffle.io/solsort/alive][https://badge.waffle.io/solsort/alive.png]]
+[[https://travis-ci.org/solsort/alive][https://travis-ci.org/solsort/alive.png]]
+
+* Alive ./icon.png
+
+See https://alive.solsort.com
